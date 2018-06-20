@@ -1,6 +1,10 @@
 .header{
 	text-align: center;
 	color: white;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-left: 20px;
+	padding-right20px;
 }
 .row{
 	padding-top: 20px;
@@ -10,11 +14,14 @@
 	padding-left: 40px;
 	padding-right: 40px;
 }
-.h2{
+.header2{
 	text-align: center;
 
 }
-.p{
+.content{
 	text-align: center;
 
+}
+.prueba{
+	float:left;
 }
